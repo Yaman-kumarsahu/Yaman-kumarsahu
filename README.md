@@ -1,6 +1,6 @@
 <h1> Hi there 👋 I am Yaman kumar sahu </h1>
-<hr>
-###Looking forward to learn new things and upgrade myself. Please to meet you all.
+
+Looking forward to learn new things and upgrade myself. Please to meet you all.
 
 <!--
 **Yaman-kumarsahu/Yaman-kumarsahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
