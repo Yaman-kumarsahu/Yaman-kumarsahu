@@ -10,9 +10,9 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 Here are some ideas to get you started:
--->
 
 - 🔭 I’m currently working on my last year college project.
+-->
 - 🌱 I’m currently learning new technologies
 - 👯 I’m looking to collaborate on interesting projects
 - 📫 How to reach me: anythingworksaslonasitwork@gmail.com
